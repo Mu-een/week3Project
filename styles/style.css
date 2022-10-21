@@ -1,0 +1,42 @@
+body {
+    background-image: url(https://i.postimg.cc/L655mSKh/school-startup-coding-software-development.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.button {
+    background-color: green;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+.button1 {
+    float: right;
+    font-size: 15px;
+    border-radius: 4px;
+    background-color: green;
+    color: white;
+    border: 2px solid black;
+    cursor: pointer;
+}
+.button2,.button3,.button4 {
+    display: inline-flex;
+    float: right;
+    gap: 5px;
+    font-size: 15px;
+    border-radius: 4px;
+    background-color:whitesmoke;
+    color: grey;
+    border: 2px solid black;
+    cursor: pointer;
+}
+
+h2 ,p{
+    color: white;
+}
